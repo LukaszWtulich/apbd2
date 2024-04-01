@@ -1,0 +1,7 @@
+C:\Users\TEMP.DESKTOP-8ADTOL2.002\RiderProjects\Solution1\cwiczenia2\bin\Debug\cwiczenia2.exe
+C:\Users\TEMP.DESKTOP-8ADTOL2.002\RiderProjects\Solution1\cwiczenia2\bin\Debug\cwiczenia2.pdb
+C:\Users\TEMP.DESKTOP-8ADTOL2.002\RiderProjects\Solution1\cwiczenia2\obj\Debug\cwiczenia2.csproj.AssemblyReference.cache
+C:\Users\TEMP.DESKTOP-8ADTOL2.002\RiderProjects\Solution1\cwiczenia2\obj\Debug\cwiczenia2.csproj.SuggestedBindingRedirects.cache
+C:\Users\TEMP.DESKTOP-8ADTOL2.002\RiderProjects\Solution1\cwiczenia2\obj\Debug\cwiczenia2.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.DESKTOP-8ADTOL2.002\RiderProjects\Solution1\cwiczenia2\obj\Debug\cwiczenia2.exe
+C:\Users\TEMP.DESKTOP-8ADTOL2.002\RiderProjects\Solution1\cwiczenia2\obj\Debug\cwiczenia2.pdb
